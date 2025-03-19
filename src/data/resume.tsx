@@ -31,9 +31,7 @@ export const DATA = {
     "Quick Learning"
   ],
   navbar: [
-    { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/About", icon: CircleUser, label: "About Me" },
-    {href: "/Schedule",icon:Calendar, label: "Schedule"},
     {href: "/Experience",icon:FileIcon, label: "Experience"},
   ],
   contact: {
